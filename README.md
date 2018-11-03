@@ -2,6 +2,7 @@
 
 ## Great Blog
 1. [QuartStart](https://www.quantstart.com/)
+2. [VIX and More](http://vixandmore.blogspot.com/)
 
 ## Conference
 1. [QuantConNYC](https://blog.quantopian.com/quantcon-nyc-2016-videos/)
