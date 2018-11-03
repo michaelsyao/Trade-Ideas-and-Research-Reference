@@ -1,4 +1,4 @@
 # algorithmic-trading
 
-## Blog I follow
+## Great Blog
 1. [QuartStart](https://www.quantstart.com/)
