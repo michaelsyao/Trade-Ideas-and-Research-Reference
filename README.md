@@ -8,8 +8,10 @@
 2. [Predicting Volatility](https://blog.quantopian.com/predicting-volatility-by-dr-ernest-chan/)
 
 ## Trade Idea
-1. [VIX and More](http://vixandmore.blogspot.com/)
-2. [Predicting Volatility](https://blog.quantopian.com/predicting-volatility-by-dr-ernest-chan/)
+1. [arXiv Quantitative Finance](https://arxiv.org/archive/q-fin)
+2. [Seeking Alpha](https://seekingalpha.com/)
+3. [Elite Trader](https://www.elitetrader.com/et/)
+4. [Nuclear Phynance](http://www.nuclearphynance.com/)
 
 ## Machine Learning Application in Finance
 1. [Hedged Monte Carlo: low variance derivative pricing with objective probabilities](https://arxiv.org/abs/cond-mat/0008147)
