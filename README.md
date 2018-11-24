@@ -1,18 +1,12 @@
 # Quant_algorithmic-trading_and_More
 
-## General
-1. [QuartStart](https://www.quantstart.com/)
-
-## About Volatility
-1. [VIX and More](http://vixandmore.blogspot.com/)
-2. [Predicting Volatility](https://blog.quantopian.com/predicting-volatility-by-dr-ernest-chan/)
-
 ## Trade Idea
 1. [arXiv Quantitative Finance](https://arxiv.org/archive/q-fin)
 2. [Seeking Alpha](https://seekingalpha.com/)
 3. [Elite Trader](https://www.elitetrader.com/et/)
 4. [Nuclear Phynance](http://www.nuclearphynance.com/)
 5. [Quantivity ](https://quantivity.wordpress.com/)
+6. [QuartStart](https://www.quantstart.com/)
 
 ## Machine Learning Application in Finance
 1. [Hedged Monte Carlo: low variance derivative pricing with objective probabilities](https://arxiv.org/abs/cond-mat/0008147)
@@ -28,6 +22,10 @@
 1. [Inverse Reinforcement Learning and Optimal Control tutorial](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
 2. [Outsider’s Tour of Reinforcement Learning](http://www.argmin.net/2018/01/29/taxonomy/?imm_mid=0fb29a&cmp=em-data-na-na-newsltr_20180214)
 3. [Linear Quadratic Regulator ](http://www.argmin.net/2018/02/08/lqr/)
+
+## About Volatility
+1. [VIX and More](http://vixandmore.blogspot.com/)
+2. [Predicting Volatility](https://blog.quantopian.com/predicting-volatility-by-dr-ernest-chan/)
 
 ## Conference
 1. [QuantConNYC](https://blog.quantopian.com/quantcon-nyc-2016-videos/)
