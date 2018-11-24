@@ -13,7 +13,7 @@
 
 ## Machine Learning Application
 1. [Hedged Monte Carlo: low variance derivative pricing with objective probabilities](https://arxiv.org/abs/cond-mat/0008147)
-2. [Predicting Volatility](https://blog.quantopian.com/predicting-volatility-by-dr-ernest-chan/)
+2. [Optimal Dynamic Hedging of Equity Options: Residual-Risks, Transaction-Costs, & Conditioning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1530046)
 
 ## Conference
 1. [QuantConNYC](https://blog.quantopian.com/quantcon-nyc-2016-videos/)
