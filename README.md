@@ -16,6 +16,7 @@
 2. [Optimal Dynamic Hedging of Equity Options: Residual-Risks, Transaction-Costs, & Conditioning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1530046)
 3. [Applications of Least-Square Regression to Pricing and Hedging of Financial Derivatives](https://mediatum.ub.tum.de/doc/635889/file.pdf)
 4. [QLBS: Q-Learner in the Black-Scholes(-Merton) Worlds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3087076)
+5. [The QLBS Learner Goes NuQLear: Fitted Q Iteration, Inverse RL, and Option Portfolios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3102707)
 
 ## Conference
 1. [QuantConNYC](https://blog.quantopian.com/quantcon-nyc-2016-videos/)
