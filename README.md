@@ -12,6 +12,7 @@
 2. [Seeking Alpha](https://seekingalpha.com/)
 3. [Elite Trader](https://www.elitetrader.com/et/)
 4. [Nuclear Phynance](http://www.nuclearphynance.com/)
+5. [Quantivity ](https://quantivity.wordpress.com/)
 
 ## Machine Learning Application in Finance
 1. [Hedged Monte Carlo: low variance derivative pricing with objective probabilities](https://arxiv.org/abs/cond-mat/0008147)
