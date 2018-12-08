@@ -7,6 +7,9 @@
 4. [Nuclear Phynance](http://www.nuclearphynance.com/)
 5. [Quantivity ](https://quantivity.wordpress.com/)
 6. [QuartStart](https://www.quantstart.com/)
+7. [Quantitative Trading](http://epchan.blogspot.com/)
+8. [Quantopian](https://blog.quantopian.com/)
+
 
 ## Machine Learning Application in Finance
 1. [Hedged Monte Carlo: low variance derivative pricing with objective probabilities](https://arxiv.org/abs/cond-mat/0008147)
