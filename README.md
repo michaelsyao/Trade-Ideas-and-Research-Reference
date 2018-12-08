@@ -1,15 +1,16 @@
 # Quant_algorithmic-trading_and_More
 
 ## Trade Idea
-1. [arXiv Quantitative Finance](https://arxiv.org/archive/q-fin)
-2. [Seeking Alpha](https://seekingalpha.com/)
-3. [Elite Trader](https://www.elitetrader.com/et/)
-4. [Nuclear Phynance](http://www.nuclearphynance.com/)
-5. [Quantivity ](https://quantivity.wordpress.com/)
-6. [QuartStart](https://www.quantstart.com/)
-7. [Quantitative Trading](http://epchan.blogspot.com/)
-8. [Quantopian](https://blog.quantopian.com/)
+1. [Seeking Alpha](https://seekingalpha.com/)
+2. [Elite Trader](https://www.elitetrader.com/et/)
+3. [Nuclear Phynance](http://www.nuclearphynance.com/)
+4. [Quantivity ](https://quantivity.wordpress.com/)
+5. [QuartStart](https://www.quantstart.com/)
+6. [Quantitative Trading](http://epchan.blogspot.com/)
+7. [Quantopian](https://blog.quantopian.com/)
 
+## Popular pre-print server and financial journal
+1. [arXiv Quantitative Finance](https://arxiv.org/archive/q-fin)
 
 ## Machine Learning Application in Finance
 1. [Hedged Monte Carlo: low variance derivative pricing with objective probabilities](https://arxiv.org/abs/cond-mat/0008147)
