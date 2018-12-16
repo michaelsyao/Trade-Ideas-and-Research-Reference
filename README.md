@@ -11,6 +11,7 @@
 
 ## Popular pre-print server and financial journal
 1. [arXiv Quantitative Finance](https://arxiv.org/archive/q-fin)
+2. [Social Science Research Network](https://www.ssrn.com/en/)
 
 ## Machine Learning Application in Finance
 1. [Hedged Monte Carlo: low variance derivative pricing with objective probabilities](https://arxiv.org/abs/cond-mat/0008147)
