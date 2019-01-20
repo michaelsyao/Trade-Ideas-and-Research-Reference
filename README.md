@@ -1,4 +1,4 @@
-# Quant_algorithmic-trading_and_More
+# Trade-Ideas-and-Research-Reference
 
 ## Trade Idea
 1. [Seeking Alpha](https://seekingalpha.com/)
