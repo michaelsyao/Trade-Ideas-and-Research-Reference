@@ -1,8 +1,8 @@
 # Trade-Ideas-and-Research-Reference
 
 ## MicroStructure
+1. [Equity Factor Crowding](https://seekingalpha.com/)
 > We can observe the Momentum from anonymous flow, Metaorder flow, price return
-1. [Anonymous Flow](https://seekingalpha.com/)
 
 ## Trade Idea
 1. [Seeking Alpha](https://seekingalpha.com/)
