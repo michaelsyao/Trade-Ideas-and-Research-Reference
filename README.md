@@ -14,8 +14,8 @@
 7. [Quantopian](https://blog.quantopian.com/)
 
 ## Deep Learning
-1. [Equity Factor Crowding](https://seekingalpha.com/)
-> We can observe the Momentum from anonymous flow, Metaorder flow, price return
+1. [DNN-Based](https://seekingalpha.com/)
+> Main
 
 ## Machine Learning Application in Finance
 1. [Hedged Monte Carlo: low variance derivative pricing with objective probabilities](https://arxiv.org/abs/cond-mat/0008147)
