@@ -4,15 +4,6 @@
 1. [Equity Factor Crowding](https://seekingalpha.com/)
 > We can observe the Momentum from anonymous flow, Metaorder flow, price return
 
-## Trade Idea
-1. [Seeking Alpha](https://seekingalpha.com/)
-2. [Elite Trader](https://www.elitetrader.com/et/)
-3. [Nuclear Phynance](http://www.nuclearphynance.com/)
-4. [Quantivity ](https://quantivity.wordpress.com/)
-5. [QuartStart](https://www.quantstart.com/)
-6. [Quantitative Trading](http://epchan.blogspot.com/)
-7. [Quantopian](https://blog.quantopian.com/)
-
 ## Deep Learning
 1. [DNN-Based](https://seekingalpha.com/)
 > Main
@@ -35,6 +26,15 @@
 ## About Volatility
 1. [VIX and More](http://vixandmore.blogspot.com/)
 2. [Predicting Volatility](https://blog.quantopian.com/predicting-volatility-by-dr-ernest-chan/)
+
+## Trade Idea
+1. [Seeking Alpha](https://seekingalpha.com/)
+2. [Elite Trader](https://www.elitetrader.com/et/)
+3. [Nuclear Phynance](http://www.nuclearphynance.com/)
+4. [Quantivity ](https://quantivity.wordpress.com/)
+5. [QuartStart](https://www.quantstart.com/)
+6. [Quantitative Trading](http://epchan.blogspot.com/)
+7. [Quantopian](https://blog.quantopian.com/)
 
 ## Conference
 1. [QuantConNYC](https://blog.quantopian.com/quantcon-nyc-2016-videos/)
