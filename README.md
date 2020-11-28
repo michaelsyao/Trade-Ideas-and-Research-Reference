@@ -4,35 +4,26 @@
 1. [Equity Factor Crowding](https://seekingalpha.com/)
 > We can observe the Momentum from anonymous flow, Metaorder flow, price return
 
-## Deep Learning
-1. [DNN-Based](https://seekingalpha.com/)
-> Main
-
-## Machine Learning Application
-### Machine Learning
-1. [Inverse Reinforcement Learning and Optimal Control tutorial](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
-
-
 ## Regulation
 1. [FRTB](https://seekingalpha.com/)
 > We can observe the Momentum from anonymous flow, Metaorder flow, price return
-
-## Machine Learning Tutorial
-1. [Inverse Reinforcement Learning and Optimal Control tutorial](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
-2. [Outsider’s Tour of Reinforcement Learning](http://www.argmin.net/2018/01/29/taxonomy/?imm_mid=0fb29a&cmp=em-data-na-na-newsltr_20180214)
-3. [Linear Quadratic Regulator ](http://www.argmin.net/2018/02/08/lqr/)
 
 ## About Volatility
 1. [VIX and More](http://vixandmore.blogspot.com/)
 2. [Predicting Volatility](https://blog.quantopian.com/predicting-volatility-by-dr-ernest-chan/)
 
+## Machine Learning Application
+### On Equity Factor Investing
+1. [Inverse Reinforcement Learning and Optimal Control tutorial](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
+
+### Deep Learning
+1. [DNN-Based](https://seekingalpha.com/)
+> Main
+
 ## Trade Idea
 1. [Seeking Alpha](https://seekingalpha.com/)
 2. [Elite Trader](https://www.elitetrader.com/et/)
-3. [Nuclear Phynance](http://www.nuclearphynance.com/)
-4. [Quantivity ](https://quantivity.wordpress.com/)
-5. [QuartStart](https://www.quantstart.com/)
-6. [Quantitative Trading](http://epchan.blogspot.com/)
+3. [Quantivity ](https://quantivity.wordpress.com/)
 
 ## Machine Learning Application in Finance
 1. [Hedged Monte Carlo: low variance derivative pricing with objective probabilities](https://arxiv.org/abs/cond-mat/0008147)
