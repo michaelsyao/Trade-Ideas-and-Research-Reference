@@ -18,6 +18,10 @@
 7. [Taming the Noise in Reinforcement Learning via Soft Updates](http://lanl.arxiv.org/abs/1512.08562)
 8. [Market Self-Learning of Signals, Impact and Optimal Trading: Invisible Hand Inference with Free Energy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3174498)
 
+## Regulation
+1. [FRTB](https://seekingalpha.com/)
+> We can observe the Momentum from anonymous flow, Metaorder flow, price return
+
 ## Machine Learning Tutorial
 1. [Inverse Reinforcement Learning and Optimal Control tutorial](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
 2. [Outsider’s Tour of Reinforcement Learning](http://www.argmin.net/2018/01/29/taxonomy/?imm_mid=0fb29a&cmp=em-data-na-na-newsltr_20180214)
