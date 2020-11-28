@@ -1,29 +1,24 @@
 # Trade-Ideas-and-Research-Reference
 
-## MicroStructure
+## 1.MicroStructure
 1. [Equity Factor Crowding](https://seekingalpha.com/)
 > We can observe the Momentum from anonymous flow, Metaorder flow, price return
 
-## Regulation
+## 2.Regulation
 1. [FRTB](https://seekingalpha.com/)
 > We can observe the Momentum from anonymous flow, Metaorder flow, price return
 
-## About Volatility
+## 3.Volatility
 1. [VIX and More](http://vixandmore.blogspot.com/)
 2. [Predicting Volatility](https://blog.quantopian.com/predicting-volatility-by-dr-ernest-chan/)
 
-## Machine Learning Application
-### On Equity Factor Investing
-1. [Inverse Reinforcement Learning and Optimal Control tutorial](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
+## 4.Machine Learning Application
+### 4.1.On Equity Factor Investing
+1. [Empirical Asset Pricing via Machine Learning](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
 
-### Deep Learning
+### 4.2.Deep Learning
 1. [DNN-Based](https://seekingalpha.com/)
 > Main
-
-## Trade Idea
-1. [Seeking Alpha](https://seekingalpha.com/)
-2. [Elite Trader](https://www.elitetrader.com/et/)
-3. [Quantivity ](https://quantivity.wordpress.com/)
 
 ## Machine Learning Application in Finance
 1. [Hedged Monte Carlo: low variance derivative pricing with objective probabilities](https://arxiv.org/abs/cond-mat/0008147)
