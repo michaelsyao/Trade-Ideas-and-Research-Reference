@@ -1,8 +1,8 @@
 # Trade-Ideas-and-Research-Reference
 
 ## MicroStructure
-1. [Seeking Alpha](https://seekingalpha.com/)
-2. [Elite Trader](https://www.elitetrader.com/et/)
+> We can observe the Momentum from anonymous flow, Metaorder flow, price return
+1. [Anonymous flow]
 
 ## Trade Idea
 1. [Seeking Alpha](https://seekingalpha.com/)
