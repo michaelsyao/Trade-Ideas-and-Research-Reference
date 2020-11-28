@@ -1,5 +1,9 @@
 # Trade-Ideas-and-Research-Reference
 
+## MicroStructure
+1. [Seeking Alpha](https://seekingalpha.com/)
+2. [Elite Trader](https://www.elitetrader.com/et/)
+
 ## Trade Idea
 1. [Seeking Alpha](https://seekingalpha.com/)
 2. [Elite Trader](https://www.elitetrader.com/et/)
